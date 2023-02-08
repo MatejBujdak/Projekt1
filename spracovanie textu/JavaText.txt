@@ -1,0 +1,10 @@
+Prvy riadok
+B riadok na pismeno b
+b riadok na pismeno male b
+Bobor 
+Toto je textovy subor pre javu. 
+Random text co mi napadol. 
+lalalalal. 
+Dalsi riadok
+a dalsi
+Posledny riadok
